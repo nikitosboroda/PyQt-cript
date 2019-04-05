@@ -1,1 +1,1 @@
-ПО для шифрования
+Simple programm for encode and decode
