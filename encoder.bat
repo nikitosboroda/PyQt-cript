@@ -1,0 +1,1 @@
+pyuic5 encoder.ui -o encoder.py
